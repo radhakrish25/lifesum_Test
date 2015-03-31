@@ -1,6 +1,4 @@
 1. Download conf.js and trackWeight.js files in one folder.
-(conf.js: https://docs.google.com/file/d/0B48hG4-0Mp-ybGdzY0JuMlZZLUk/edit 
- trackWeight.js: https://docs.google.com/file/d/0B48hG4-0Mp-yY1N2eVVqeUxCSWc/edit)
 2. Install firefox browser on your Linux/Unix PC
 3. Install protractor on your Linux/Unix PC using this guide: http://angular.github.io/protractor/#/tutorial
 4. Execute test using this command: "protractor conf.js"
